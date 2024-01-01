@@ -1,0 +1,29 @@
+SPRITE_WIDTH = 380
+SPRITE_HEIGHT = 350
+
+Charactersprite1 
+
+SPRITE_WIDTH = 152
+SPRITE_HEIGHT = 139
+
+
+------------------------------
+
+cloud_smoke2.png
+landsmoke_width_sprite = 47
+landsmoke_height_sprite = 36
+
+---------------------------------
+
+enemysprite width = 324
+enemysprite height = 320
+
+---------------------------------
+
+player gun width = 80
+player gun height = 23
+
+---------------------------------
+
+enemy death width = 200
+enemy death height = 140
